@@ -16,6 +16,6 @@ A passionate **Native Android Developer** currently working at **Mr. Cooper**. I
 - **Other Tools**: Gradle, CI/CD, KSP  
 
 ### 📫 **How to Reach Me**  
-- 💼 [LinkedIn](www.linkedin.com/in/vijay-a-14340b1b6)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-a-14340b1b6)  
 - 📧 [Email](mailto:vijaymangalani4588@gmail.com)  
 
