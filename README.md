@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Vijay**, a passionate **Native Android Developer** currently working at **Mr. Cooper**. I specialize in crafting seamless and efficient mobile experiences using **Kotlin** and modern Android tools.  
+A passionate **Native Android Developer** currently working at **Mr. Cooper**. I specialize in crafting seamless and efficient mobile experiences using **Kotlin** and modern Android tools.  
 
 ### 🌟 **About Me**  
 - 🔭 I’m currently working at **MrCooper** and exploring **Flavors, TDD and Kotlin Flow APIs**.  
